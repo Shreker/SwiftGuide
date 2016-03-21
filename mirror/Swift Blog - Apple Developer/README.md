@@ -7,7 +7,7 @@ Swift Blog - Apple Developer（Mirror）
 ------------ | ------------ | ------------- | -------------
 Feb 8, 2016|[Interactive Playgrounds](https://developer.apple.com/swift/blog/?id=35)|-|N/A
 Dec 3, 2015|[Swift is Open Source](https://developer.apple.com/swift/blog/?id=34)|-|N/A
-Oct 7, 2015|[Literals in Playgrounds](https://developer.apple.com/swift/blog/?id=33)|-|N/A
+Oct 7, 2015|[Literals in Playgrounds](https://developer.apple.com/swift/blog/?id=33)|[Playgrounds中的字面量](http://www.jianshu.com/p/87d20383c465)|[@Shrekor](http://weibo.com/temeier)
 Sep 21, 2015|[Swift 2 Apps in the App Store](https://developer.apple.com/swift/blog/?id=32)|-|N/A
 Aug 12, 2015|[Swift-er SDK](https://developer.apple.com/swift/blog/?id=31)|[Swift-er SDK](http://www.cocoachina.com/swift/20150820/13120.html)|[@CocoaChina](http://weibo.com/cocoachina)
 Jul 23, 2015|[Strings in Swift 2](https://developer.apple.com/swift/blog/?id=30)|[在 Swift 2 中字符串设计](http://www.devtf.cn/?p=989)|[MrLoong](http://weibo.com/p/1005055848341536)
